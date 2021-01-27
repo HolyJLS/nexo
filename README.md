@@ -1,0 +1,2 @@
+# nexo
+discord bot
